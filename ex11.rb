@@ -1,3 +1,5 @@
+# How to get user imput using gets.chomp
+
 print "How old are you? "
 age = gets.chomp.to_i
 
